@@ -1,0 +1,12 @@
+C:\Users\enese\Desktop\DERSLER\Gerçek Zamanlı Sistemler\GZSProje\GZSProje\bin\Debug\GZSProje.exe.config
+C:\Users\enese\Desktop\DERSLER\Gerçek Zamanlı Sistemler\GZSProje\GZSProje\bin\Debug\GZSProje.exe
+C:\Users\enese\Desktop\DERSLER\Gerçek Zamanlı Sistemler\GZSProje\GZSProje\bin\Debug\GZSProje.pdb
+C:\Users\enese\Desktop\DERSLER\Gerçek Zamanlı Sistemler\GZSProje\GZSProje\obj\Debug\GZSProje.csprojResolveAssemblyReference.cache
+C:\Users\enese\Desktop\DERSLER\Gerçek Zamanlı Sistemler\GZSProje\GZSProje\obj\Debug\GZSProje.Form1.resources
+C:\Users\enese\Desktop\DERSLER\Gerçek Zamanlı Sistemler\GZSProje\GZSProje\obj\Debug\GZSProje.Properties.Resources.resources
+C:\Users\enese\Desktop\DERSLER\Gerçek Zamanlı Sistemler\GZSProje\GZSProje\obj\Debug\GZSProje.csproj.GenerateResource.Cache
+C:\Users\enese\Desktop\DERSLER\Gerçek Zamanlı Sistemler\GZSProje\GZSProje\obj\Debug\GZSProje.csproj.CoreCompileInputs.cache
+C:\Users\enese\Desktop\DERSLER\Gerçek Zamanlı Sistemler\GZSProje\GZSProje\obj\Debug\GZSProje.exe
+C:\Users\enese\Desktop\DERSLER\Gerçek Zamanlı Sistemler\GZSProje\GZSProje\obj\Debug\GZSProje.pdb
+C:\Users\enese\Desktop\DERSLER\Gerçek Zamanlı Sistemler\GZSProje\GZSProje\obj\Debug\GZSProje.Form2.resources
+C:\Users\enese\Desktop\DERSLER\Gerçek Zamanlı Sistemler\GZSProje\GZSProje\obj\Debug\GZSProje.Form3.resources
